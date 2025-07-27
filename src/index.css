@@ -1,0 +1,19 @@
+body.dark {
+  background-color: #121212;
+  color: white;
+}
+body {
+  font-family: 'Segoe UI', sans-serif;
+  transition: all 0.3s ease;
+}
+input, button {
+  padding: 10px;
+  margin: 8px;
+  border-radius: 8px;
+}
+.glass {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 1rem;
+  padding: 2rem;
+}
